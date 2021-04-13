@@ -6,7 +6,6 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:http/http.dart' as http;
 import 'package:path_provider/path_provider.dart';
-
 import 'api/player_mode.dart';
 import 'api/release_mode.dart';
 import 'audioplayer.dart';
